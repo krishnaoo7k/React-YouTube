@@ -55,33 +55,15 @@ p {
 }
 
 
-@media (min-width: 200px) and (max-width: 700px) {
+@media (min-width: 400px) and (max-width: 980px) {
   .videoGrid {
     display: grid;
       grid-template-columns: 1fr ;
    
   }
   .videoInfoGrid {
-    margin-top: -5px;
-    padding-left:4px;
-    margin-bottom: -20px;
-  }
-
-  .profilePicture {
-    object-fit: cover;
-    object-position: center;
-    border-radius: 22px;
-    width: 22px;
-    margin-top: 5px;
-    margin-left: 0px;
-  }
-
-  .videoTitle {
-    font-size: 12px;
-    font-weight: 400;
-    line-height: 18px;
-    margin-bottom: 2px;
-    margin-left: -22px;
+    margin-top: 20px;
+    padding-left:14px;
   }
   
   .videoAuthor, .videoStats {
