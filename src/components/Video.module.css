@@ -55,7 +55,7 @@ p {
 }
 
 
-@media (min-width: 400px) and (max-width: 980px) {
+@media (min-width: 200px) and (max-width: 980px) {
   .videoGrid {
       grid-template-columns: 1fr ;
       
@@ -64,6 +64,7 @@ p {
   .videoInfoGrid {
     margin-top: 20px;
     padding-left:14px;
+    font-size: 22px;
   }
   
 }
