@@ -77,7 +77,7 @@ p {
   }
 
   .videoTitle {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 400;
     line-height: 16px;
     margin-bottom: 3px;
@@ -86,7 +86,7 @@ p {
   
   .videoAuthor, .videoStats {
     display: block;
-    font-size: 12px;
+    font-size: 10px;
     color: rgb(98, 96, 96);
     margin-bottom: 3px;
     margin-left: -28px;
