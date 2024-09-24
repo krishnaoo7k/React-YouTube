@@ -128,7 +128,9 @@
 
   .header {
       justify-content: space-between;
-      padding: 16px 10px;
+      padding-top: 18px;
+      margin-top: -10px;
+      height: 20px;
   }
 
   .hamburgerMenu {
@@ -136,18 +138,32 @@
   }
 
   .youtubeLogo {
-      height: 40px;
-      width: 150px;
-     padding-left: 14px;
+      height: 15px;
+      width: 100%;
+     margin-left: 5px;
   }
 
   .rightSelection {
-      margin-right: -10px;
+      margin-right: -22px;
+  }
+
+  .uploadIcon{
+    height: 12px;
+    margin-right: 16px;
+  
+  }
+  
+  .notificationIcon {
+    height: 12px;
+    margin-right: 6px;
+    margin-top: -4px;
   }
 
   
   .currentUserPicture {
       padding-right: 5px;
+      height: 20px;
+      width: 20px;
   }
   
 
