@@ -55,16 +55,16 @@ p {
 }
 
 
-@media (min-width: 200px) and (max-width: 700px) {
+@media (min-width: 100px) and (max-width: 700px) {
   .videoGrid {
     display: grid;
       grid-template-columns: 1fr ;
    
   }
   .videoInfoGrid {
-    margin-top: -7px;
+    margin-top: -6px;
     padding-left:4px;
-    margin-bottom: -26px;
+    margin-bottom: -24px;
   }
 
   .profilePicture {
@@ -80,7 +80,7 @@ p {
     font-size: 10px;
     font-weight: 400;
     line-height: 16px;
-    margin-bottom: 0px;
+    margin-bottom: 2px;
     margin-left: -28px;
   }
   
