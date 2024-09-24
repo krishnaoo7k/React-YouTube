@@ -64,7 +64,7 @@ p {
   .videoInfoGrid {
     margin-top: -6px;
     padding-left:4px;
-    margin-bottom: -24px;
+    margin-bottom: -22px;
   }
 
   .profilePicture {
@@ -80,7 +80,7 @@ p {
     font-size: 10px;
     font-weight: 400;
     line-height: 16px;
-    margin-bottom: 2px;
+    margin-bottom: 3px;
     margin-left: -28px;
   }
   
@@ -88,7 +88,7 @@ p {
     display: block;
     font-size: 6px;
     color: rgb(98, 96, 96);
-    margin-bottom: 4px;
+    margin-bottom: 3px;
     margin-left: -28px;
   }
   
